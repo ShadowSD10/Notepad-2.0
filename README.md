@@ -1,11 +1,11 @@
 # Notepad 2.0
-An Enhanced version of notepad made using Java Swing
+An alternate version of Notepad made using Java Swing
 
-This project was made in Java 8 using notepad++.
+This project was made in Java 8 using Notepad++.
 
 # How to run
-• Make sure you have jdk 1.8.0 or above version. (It might also work with version 1.6 & 1.7)  
-• Use any IDE or command promt to run the file
+• Make sure you have JDK 1.8.0 or above version. (It might also work with versions 1.6 & 1.7)  
+• Use any IDE or command prompt to run the file
 
 # Screenshots
 ![home](https://github.com/ShadowSD10/Notepad2.0/assets/137081476/567966a6-fe46-43e2-af44-e0010d1fc97f)
@@ -43,7 +43,7 @@ This project was made in Java 8 using notepad++.
 5. Event Handling:  
    ‣ The actionPerformed method handles various actions performed by the user, such as clicking menu items or buttons.  
    ‣ It uses if-else statements to determine the source of the event and executes the corresponding actions.  
-   ‣ Actions include creating a new file, opening a file, saving a file, printing, exiting the application, copying, cutting, pasting, undoing, redoing, selecting all text, changing font and word wrap settings, changing themes, and more.  
+   ‣ Actions include creating a new file, opening a file, saving a file, printing, exiting the application, copying, cutting, pasting, undoing, redoing, selecting all text, changing the font and word wrap settings, changing themes, and more.  
    ‣ Some actions involve using file choosers to select files and color choosers to select colors.  
 
 6. Item State Change Handling:  
